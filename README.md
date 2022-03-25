@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![alt text](https://i.imgur.com/JONp8NA.png)
+![alt text](https://i.imgur.com/vn5Nwl7.png)
 
 # 👋 Hello World 👋
 
