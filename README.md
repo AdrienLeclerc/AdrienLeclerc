@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 My name is Adrien but everybody calls me Ad, and welcome to Dat-Ad Science ! My Github dedicated to Data Projects.
 
-- 🔭 Currently looking for Data Aanalyst / Data Scientist opportunities
+- 🔭 Currently looking for Data Analyst / Data Scientist opportunities
 - 🚌 Le Wagon Data Science alumni
 - 📫 Mail : Leclerc.adrien3@gmail.com
 - 📞 Phone : 07.61.91.47.76
